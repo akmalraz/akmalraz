@@ -1,11 +1,19 @@
-<a href="https://github.com/drshahizan/learn-cloud/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-cloud" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-cloud" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-cloud" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-cloud" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-cloud?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
+## Hi there! 🙋‍♂️
 
-## Github Akmal Profile 👋
+I'm __Akmal__, a software engineer.
 
-Hello Everyone, Don't forget to hit the :star: if you like this repo.
+### ✨ About Me ✨
+- 🌍 Software engineer who loves to make impact
+- 👨‍💻 Software Engineer at Unilever
+- :soccer: An avid lover of football
 
+### ⚡️ Currently ⚡️
+- Working on portfolio projects 
+- Learning data orchestration using Airflow
+
+### 💡 Core Competencies 💡
+- Tools: Python, SQL, MSSQL Server, BigQuery, Docker, Flask and Git
+- Skills:  Data Warehousing, Data Modeling, Data Pipelines, Data Cleaning & Transformation, ETLs and APIs 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharkawy98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkawy98&layout=compact&theme=buefy&hide_border=true"/> |
+| ------------- | ------------- |
