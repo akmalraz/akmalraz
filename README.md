@@ -4,7 +4,7 @@ I'm __Akmal__, a software engineer.
 
 ### ✨ About Me ✨
 - 🌍 Software engineer who loves to make impact
-- 👨‍💻 Software Engineer at Unilever
+- 👨‍💻 Software Engineer at Personal Company
 - :soccer: An avid lover of football
 
 ### ⚡️ Currently ⚡️
